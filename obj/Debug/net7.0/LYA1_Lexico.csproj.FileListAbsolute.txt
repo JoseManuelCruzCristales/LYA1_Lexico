@@ -1,0 +1,14 @@
+C:\Users\lidia\OneDrive\Escritorio\Trabajos Uni\5TO SEMESTRE\Lenguajes automatas I\LYA1_Lexico\bin\Debug\net7.0\LYA1_Lexico.exe
+C:\Users\lidia\OneDrive\Escritorio\Trabajos Uni\5TO SEMESTRE\Lenguajes automatas I\LYA1_Lexico\bin\Debug\net7.0\LYA1_Lexico.deps.json
+C:\Users\lidia\OneDrive\Escritorio\Trabajos Uni\5TO SEMESTRE\Lenguajes automatas I\LYA1_Lexico\bin\Debug\net7.0\LYA1_Lexico.runtimeconfig.json
+C:\Users\lidia\OneDrive\Escritorio\Trabajos Uni\5TO SEMESTRE\Lenguajes automatas I\LYA1_Lexico\bin\Debug\net7.0\LYA1_Lexico.dll
+C:\Users\lidia\OneDrive\Escritorio\Trabajos Uni\5TO SEMESTRE\Lenguajes automatas I\LYA1_Lexico\bin\Debug\net7.0\LYA1_Lexico.pdb
+C:\Users\lidia\OneDrive\Escritorio\Trabajos Uni\5TO SEMESTRE\Lenguajes automatas I\LYA1_Lexico\obj\Debug\net7.0\LYA1_Lexico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lidia\OneDrive\Escritorio\Trabajos Uni\5TO SEMESTRE\Lenguajes automatas I\LYA1_Lexico\obj\Debug\net7.0\LYA1_Lexico.AssemblyInfoInputs.cache
+C:\Users\lidia\OneDrive\Escritorio\Trabajos Uni\5TO SEMESTRE\Lenguajes automatas I\LYA1_Lexico\obj\Debug\net7.0\LYA1_Lexico.AssemblyInfo.cs
+C:\Users\lidia\OneDrive\Escritorio\Trabajos Uni\5TO SEMESTRE\Lenguajes automatas I\LYA1_Lexico\obj\Debug\net7.0\LYA1_Lexico.csproj.CoreCompileInputs.cache
+C:\Users\lidia\OneDrive\Escritorio\Trabajos Uni\5TO SEMESTRE\Lenguajes automatas I\LYA1_Lexico\obj\Debug\net7.0\LYA1_Lexico.dll
+C:\Users\lidia\OneDrive\Escritorio\Trabajos Uni\5TO SEMESTRE\Lenguajes automatas I\LYA1_Lexico\obj\Debug\net7.0\refint\LYA1_Lexico.dll
+C:\Users\lidia\OneDrive\Escritorio\Trabajos Uni\5TO SEMESTRE\Lenguajes automatas I\LYA1_Lexico\obj\Debug\net7.0\LYA1_Lexico.pdb
+C:\Users\lidia\OneDrive\Escritorio\Trabajos Uni\5TO SEMESTRE\Lenguajes automatas I\LYA1_Lexico\obj\Debug\net7.0\LYA1_Lexico.genruntimeconfig.cache
+C:\Users\lidia\OneDrive\Escritorio\Trabajos Uni\5TO SEMESTRE\Lenguajes automatas I\LYA1_Lexico\obj\Debug\net7.0\ref\LYA1_Lexico.dll
