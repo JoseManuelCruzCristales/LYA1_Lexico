@@ -183,6 +183,8 @@ namespace LYA1_Lexico
         {
 
             return archivo.EndOfStream;
+        
         }
     }
 }
+    
