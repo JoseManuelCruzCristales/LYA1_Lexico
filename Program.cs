@@ -10,6 +10,7 @@ namespace LYA1_Lexico
         static void Main(string[] args) 
         {
             Console.WriteLine("Hola mundo");
+            Console.WriteLine("Adios");
             try
             {
                 using (Lexico L = new Lexico())
